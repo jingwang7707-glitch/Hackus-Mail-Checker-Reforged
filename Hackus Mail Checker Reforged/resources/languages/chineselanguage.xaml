@@ -621,3 +621,32 @@ Cloud: check via Cloud.Mail.Ru API. Quick validation check. No captcha solution 
 will be requested on the server where the email was found.</sys:String>
 	<sys:String
 		x:Key="l_DelayDescription">Defines the time interval between mail checks for requests in minutes</sys:String>
+x:Key="l_CreateRequestExtended">Create request (from=subject=body)</sys:String>
+	<sys:String
+		x:Key="l_AddToCurrentSearchRequests">Add to current search requests</sys:String>
+	<sys:String
+		x:Key="l_CreateRequest">Create request</sys:String>
+	<sys:String
+		x:Key="l_AddExistedRequest">Add existed request</sys:String>
+	<sys:String
+		x:Key="l_Search">Search</sys:String>
+	<sys:String
+		x:Key="l_DelayMin">Delay (min)</sys:String>
+	<sys:String
+		x:Key="l_AddRequest">Add request</sys:String>
+	<sys:String
+		x:Key="l_Actions">Actions</sys:String>
+	<sys:String
+		x:Key="l_DownloadFoundMails">Download found mails</sys:String>
+	<sys:String
+		x:Key="l_EnableNotifications">Enable notifications</sys:String>
+	<sys:String
+		x:Key="l_Processes">Processes</sys:String>
+	<sys:String
+		x:Key="l_Messages">Messages</sys:String>
+	<sys:String
+		x:Key="l_DeleteOnServerDescription2">For all found emails a delete operation 
+will be requested on the server where the email was found.</sys:String>
+	<sys:String
+		x:Key="l_DelayDescription">Defines the time interval between mail checks for requests in minutes</sys:String>
+</ResourceDictionary>
